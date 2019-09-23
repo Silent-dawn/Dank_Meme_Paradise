@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+    <head>
+        <title>This is my puppy</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <meta name="copyright" content="Copyright 2016 Imgur, Inc." />
+        <meta id="viewport" name="viewport" content="width=426, user-scalable=yes" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1461958536" />
+
+        <style type="text/css">
+            #content, #video {
+                width:  426px;
+                height: 240px;
+            }
+
+            #chrome, #progress {
+                width: 426px;
+            }
+        </style>
+
+        <link rel="alternate" type="application/json+oembed" href="http://api.imgur.com/oembed.json?url=http://i.imgur.com/BbS5Jb7.gifv" title="This is my puppy" />
+        <link rel="alternate" type="application/xml+oembed" href="http://api.imgur.com/oembed.xml?url=http://i.imgur.com/BbS5Jb7.gifv" title="This is my puppy" />
+
+        <link rel="canonical"                 href="http://i.imgur.com/BbS5Jb7.gifv" />
+
+        <meta property="og:site_name"         content="Imgur" />
+        <meta property="og:title"             content="This is my puppy" />
+        <meta property="og:type"              content="video.other" />
+                <meta property="og:url"               content="https://i.imgur.com/BbS5Jb7.mp4" />
+        <meta property="og:image"             content="https://i.imgur.com/BbS5Jb7h.jpg" />
+        <meta property="og:description"       content="Imgur: The most awesome images on the Internet." />
+        <meta property="og:video:width"       content="426" />
+        <meta property="og:video:height"      content="240" />
+        <meta property="og:video"             content="https://i.imgur.com/BbS5Jb7.mp4" />
+        <meta property="og:video:secure_url"  content="https://i.imgur.com/BbS5Jb7.mp4" />
+        <meta property="og:video:type"        content="video/mp4" />
+        
+
+        <meta name="twitter:site"                       content="@imgur" />
+        <meta name="twitter:domain"                     content="imgur.com" />
+        <meta name="twitter:app:id:googleplay"          content="com.imgur.mobile" />
+        <meta name="twitter:card"                       content="player" />
+        <meta name="twitter:title"                      content="This is my puppy" />
+        <meta name="twitter:description"                content="Imgur: The most awesome images on the Internet." />
+        <meta name="twitter:image"                      content="https://i.imgur.com/BbS5Jb7h.jpg" />
+        <meta name="twitter:player"                     content="https://i.imgur.com/BbS5Jb7.gifv?twitter#t" />
+        <meta name="twitter:player:width"               content="426" />
+        <meta name="twitter:player:height"              content="240" />
+        <meta name="twitter:player:stream"              content="https://i.imgur.com/BbS5Jb7.mp4" />
+        <meta name="twitter:player:stream:content_type" content="video/mp4">
+
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1461958536"></script>
+<![endif]-->
+    </head>
+    <body id="body">
+        <div id="content">
+            <script type="text/javascript">
+                window.image        = 'BbS5Jb7';
+                window.image_size   = '26937887';
+                window.image_width  = '426';
+                window.image_height = '240';
+                window.cdn_url      = '//i.imgur.com';
+
+                if(navigator.userAgent.match(/Firefox/)) {
+                    document.body.className = document.body.className + ' firefox';
+                }
+            </script>
+            <div class="vid-container">
+                
+                
+                
+                <div class="post-image">
+    
+
+            <div class="video-container">
+            <script type="text/javascript">
+                var videoItem = {
+                    looping:  true,
+                    width:    426,
+                    height:   240,
+                    size:     26937887,
+                    gifUrl:   '//i.imgur.com/BbS5Jb7.gif',
+                    forceGif: false,
+                    hash:     'BbS5Jb7'
+                }
+            </script>
+            <video poster="//i.imgur.com/BbS5Jb7h.jpg" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline></video>
+            <div class="video-elements">
+                <source src="//i.imgur.com/BbS5Jb7.webm" type="video/webm">
+                <source src="//i.imgur.com/BbS5Jb7.mp4" type="video/mp4">
+
+                <object style="width: 426px; height: 240px" type="application/x-shockwave-flash"
+                         data="//s.imgur.com/include/flash/gifplayer.swf?1444772065&amp;imgur_video=http://i.imgur.com/BbS5Jb7.mp4&amp;imgur_width=426&amp;imgur_height=240&amp;imgur_url=">
+                    <param name="movie" value="//s.imgur.com/include/flash/gifplayer.swf?1444772065&amp;imgur_video=http://i.imgur.com/BbS5Jb7.mp4&amp;imgur_width=426&amp;imgur_height=240" />
+                    <param name="allowscriptaccess" value="never" />
+                    <param name="flashvars" value="height=240&amp;width=426" />
+                    <param name="width" value="426" />
+                    <param name="height" value="240" />
+                    <param name="version" value="0" />
+                    <param name="scale" value="scale" />
+                    <param name="salign" value="tl" />
+                    <param name="wmode" value="opaque" />
+                </object>
+            </div>
+            <progress value="0" max="100" min="0"></progress>
+            <div class="video-loader"></div>
+            <script id="scriptBbS5Jb7" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1461958536"></script>
+
+        </div>
+    
+</div>
+
+            </div>
+            <script type="text/javascript">
+            var pixel_url = '//i.imgur.com/imageview.gif?a=BbS5Jb7&r=' + encodeURIComponent(document.referrer);
+            var pixel = document.createElement('img');
+            pixel.src = pixel_url;
+            </script>
+
+            <div id="chrome">
+                <div class="icon">
+                    <a href="//imgur.com/BbS5Jb7"><img src="//i.imgur.com/favicon.ico" /></a>
+                </div>
+                <div class="imgur">
+                    <a href="//imgur.com/BbS5Jb7">Imgur</a>
+                </div>
+                <div class="controls">
+                    <a href="//imgur.com/download/BbS5Jb7">download</a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1461958536"></script>
+
+    </body>
+</html>
